@@ -10,7 +10,11 @@ function App() {
           <Dictionary />
         </main>
         <footer>
-          <a href="https://github.com/alenac27/dictionary-app" target="_blank">
+          <a
+            href="https://github.com/alenac27/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Coded
           </a>{" "}
           by Alena Causov
