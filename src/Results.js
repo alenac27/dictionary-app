@@ -1,5 +1,6 @@
 import React from "react";
 import Meaning from "./Meaning.js";
+import "./Results.css";
 
 export default function Results(props) {
   if (props.results) {
