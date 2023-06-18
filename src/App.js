@@ -15,9 +15,16 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Coded
+            Open-source code
           </a>{" "}
-          by Alena Causov
+          by Alena Causov hosted on{" "}
+          <a
+            href="https://peppy-pothos-b40eb0.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>{" "}
         </footer>
       </div>
     </div>
